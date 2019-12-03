@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("其他用户修改");
 
         System.out.println("其他用户再次修改");
+        System.out.println("本用户修改");
     }
 }
